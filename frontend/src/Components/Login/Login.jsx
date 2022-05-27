@@ -38,7 +38,7 @@ const Login = () => {
               kindly buy me a coffee or support me let's make this app better
             </h4>
             <p>
-              Momo NO: <span>+233500159575</span>{" "}
+              Momo NO: <span>0546958807</span>{" "}
             </p>
           </div>
         </div>
